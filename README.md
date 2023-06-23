@@ -1,2 +1,3 @@
 # clone-tabnews
-Implementação tabnews ponta a ponta, e trasnformando no sentinela news.
+
+Implementação tabnews ponta a ponta, e transformando no sentinelanews.com.br
